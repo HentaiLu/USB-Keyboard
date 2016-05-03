@@ -1,0 +1,8 @@
+ASP Assignment 6
+
+1.>extract all the documents
+2.>bindin.sh,usbkbd.c,Makefile
+3.>enter make
+4.>from the virtual box select input device as usb kbd that one connects
+5.>run the script bindin.sh
+6.>test the keyboard
